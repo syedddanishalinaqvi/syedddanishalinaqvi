@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syedddanishalinaqvi
-- 👀 I’m interested in College
+- 👀 I’m currently in College
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on some good projects with c++ coding
 - 📫 How to reach me - just messege me.
