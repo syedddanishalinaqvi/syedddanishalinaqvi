@@ -1,5 +1,5 @@
 <img src="https://semidotinfotech.com/web/images/frontend_banner.jpg" alt="/">
-<h1 align="center">Hi 👋, [I'm Syed Danish Ali Naqvi](https://syed-naqvi-portfolio.vercel.app)</h1>
+<h1 align="center">Hi 👋, I'm Syed Danish Ali Naqvi</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedddanishalinaqvi&label=Profile%20views&color=0e75b6&style=flat" alt="syedddanishalinaqvi" /> </p>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://www.instagram.com/sydan.codes/**
 
-- 📄 Know about my experiences [https://portfolio-three-chi-39.vercel.app/](https://portfolio-three-chi-39.vercel.app/)
+- 📄 Know about my experiences [Portfolio](https://syed-naqvi-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I think I can code without Google**
 
