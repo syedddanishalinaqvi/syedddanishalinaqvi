@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **React.js, Node.js, Express, MongoDB**
 
-- 📫 How to reach me **https://www.instagram.com/sydan.codes/**
-
 - 📄 Know about my experiences [Portfolio](https://syed-naqvi-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I think I can code without Google**
