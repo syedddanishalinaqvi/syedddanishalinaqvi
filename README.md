@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedddanishalinaqvi&label=Profile%20views&color=0e75b6&style=flat" alt="syedddanishalinaqvi" /> </p>
 
-- 🔭 I’m currently working on **Chat-App**
+- 🔭 I’m currently working on **AI-Code Reviewer**
 
-- 🌱 I’m currently learning **TypeScript, Vue.js, and FireBase**
+- 🌱 I’m currently learning **TypeScript, Prisma, PostgreSQL, n8n Workflows, LLMs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syedddanishalinaqvi](https://github.com/syedddanishalinaqvi)
 
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB**
+- 💬 Ask me about **React.js, Node.js, Express, MongoDB, RESTAPIs, Next.js**
 
 - 📄 Know about my experiences [Portfolio](https://syed-naqvi-portfolio.vercel.app/)
 
